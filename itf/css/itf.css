@@ -676,10 +676,6 @@ cursor:pointer;
 
 /* max */
 
-@media (max-width: 1399.98px) { 
-
-}
-
 @media (max-width: 1199.98px) { 
 	.label-pt {
    		padding: 5rem 20px 20px;
@@ -726,6 +722,7 @@ cursor:pointer;
   }
 
   .itf-group {
+    gap: 1.5rem;
     padding: 20px 0 50px;
   }
 
