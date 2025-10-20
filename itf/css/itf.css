@@ -717,15 +717,22 @@ cursor:pointer;
     width: 100%;
   }
 
+  .itf-group {
+    gap: 1.5rem;
+    padding: 20px 0 50px;
+  }
+
+  .itf-module .itf-content .sub_title {
+    font-size: 15.5px;
+    font-weight: 600;
+    letter-spacing: 0.02rem;
+  }
+
   .featured {
     font: 32px "Noto Sans TC", "微軟正黑體", Arial, sans-serif;
     font-weight: 600;
   }
 
-  .itf-group {
-    gap: 1.5rem;
-    padding: 20px 0 50px;
-  }
 
 }
 
