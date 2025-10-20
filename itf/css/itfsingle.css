@@ -146,7 +146,6 @@ a {
 
 .py-80 {
   	padding-top: 80px !important;
-	/* padding-bottom: 80px !important; */
 }
 
 .py-100 {
@@ -253,7 +252,6 @@ p {
 	left: 0;
 	right: 0;
 	width: 100%;
-
 }
 
 /* 表單 */
@@ -329,7 +327,7 @@ p {
     right: 0;
 }
 .child-categories {
-     display: none; 
+    display: none; 
     padding: 0;
 }
 
@@ -410,7 +408,6 @@ p {
 }
 
 /* 線上旅展 */
-
 .itf-bg {
   background: url(../images/bg-icon.png) center top, var(--blue3);
 }
@@ -495,7 +492,6 @@ p {
 }
 
 /*線上旅展 列表*/
-
 .itf-group {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
@@ -508,7 +504,6 @@ p {
     background-color: #fff;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    /* padding: 20px; */
     text-align: left;
 }
 
@@ -551,18 +546,6 @@ p {
 	color: var(--red);
 	font-weight: 600;
 }
-
-/* .price-order {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 15px;
-}
-
-.price {
-    font-size: 24px;
-    font-weight: bold;
-} */
 
 .tags {
     margin: 10px 0;
@@ -689,7 +672,7 @@ cursor:pointer;
     margin: 0;
     padding: 0;
 
-	width: 100%;
+	  width: 100%;
 }
 
 
@@ -864,7 +847,6 @@ cursor:pointer;
 
 
 /* max */
-
 @media (max-width: 1399.98px) { 
   .travel-box {
     display: block;
@@ -1175,9 +1157,11 @@ background-color: var(--lightblue);
   .contact-box:last-of-type {
       display: none;
   }
+
   .item {
       padding-top: 60%;
   }
+
   .main-pic img {
       width: 90%;
       margin: 0 5%;
@@ -1190,6 +1174,7 @@ background-color: var(--lightblue);
       margin: 0 0 10px;
       align-items: flex-start;
   }
+
   .contact-box p .contact-box-title {
       display: block;
   }
@@ -1208,6 +1193,7 @@ background-color: var(--lightblue);
   footer {
       font-size: 12px;
   }
+
   .footer-left {
       width: 100%;
   }
@@ -1232,16 +1218,19 @@ background-color: var(--lightblue);
   .contact-box-warp {
     align-items: start;
   }
-    .contact-box {
+
+  .contact-box {
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 50%;
     padding: 10px 0;
   }
+
   .contact-box p span {
     letter-spacing: 0.15rem;
   }
+
   .contact-box p {
     margin-bottom: 2px;
   }
@@ -1263,6 +1252,7 @@ background-color: var(--lightblue);
   .footer-left {
     text-align: center;
   }
+
   .footer-right {
       margin: 10px 0;
       flex-direction: column;
