@@ -720,6 +720,15 @@ cursor:pointer;
     width: 100%;
   }
 
+  .featured {
+    margin: 0px 43px 0 -12px;
+    font: 32px "Noto Sans TC", "微軟正黑體", Arial, sans-serif;
+  }
+
+  .itf-group {
+    padding: 20px 0 50px;
+  }
+
 }
 
 @media (max-width: 545.98px) {
