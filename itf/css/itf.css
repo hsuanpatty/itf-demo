@@ -34,7 +34,8 @@
   --orange: #ff6a00;
   --blue: #44c3c9;
   --blue2: #006892;
-  --blue3: #055575;
+  --blue3: #d9e3ed;
+  --blue4: #055575;
 }
 
 p,
@@ -290,7 +291,7 @@ p {
 /* 線上旅展 */
 
 .itf-bg {
-	background-color: #d9e3ed;
+	  background: url(../images/bg-icon.png) center top, var(--blue3);
 }
 
 .itf-bg-2 {
@@ -749,7 +750,7 @@ p {
 
 /*  footer  */
 .footer-bg {
-	background-color: var(--blue3);
+	background-color: var(--blue4);
 }
 
 .QR-code {
