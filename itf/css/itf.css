@@ -706,6 +706,20 @@ cursor:pointer;
 	nav {
     	padding: 8px 15px 8px;
 	}
+
+  .itf-title {
+    width: 85%;
+  }
+
+  .itf-slide-caption {
+    position: absolute;
+    top: 52%;
+    transform: translateY(-50%);
+    left: 0;
+    right: 0;
+    width: 100%;
+  }
+
 }
 
 @media (max-width: 545.98px) {
