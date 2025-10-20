@@ -596,6 +596,7 @@ cursor:pointer;
   color: #e74c3c;
   font-size: 15px;
   font-weight: 500;
+  letter-spacing: 0.05rem;
 }
 
 .itf-module .itf-content .description {
