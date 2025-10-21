@@ -550,7 +550,7 @@ p {
   bottom: 0;
   background: var(--white);
   width: 100%;
-  padding: 15px 20px;
+  padding: 15px;
   -webkti-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -594,8 +594,8 @@ p {
   padding: 0 0 10px;
   color: #e74c3c;
   font-size: 15px;
-  font-weight: 500;
-  letter-spacing: 0.05rem;
+  font-weight: 600;
+  letter-spacing: 0.01rem;
 }
 
 .itf-module .itf-content .description {
