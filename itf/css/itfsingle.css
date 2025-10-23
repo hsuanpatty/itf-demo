@@ -1016,6 +1016,16 @@ cursor:pointer;
       font: 14px "Noto Sans TC", "微軟正黑體", Arial, sans-serif;
       padding: 5px 7px;
   }
+
+    .discount h4 {
+    font: 16px 'Noto Sans TC', sans-serif;
+    letter-spacing: 0.05rem;
+  }
+
+  .chosen-box li a::before {
+    top: 11px;
+  }
+
 }
 
 @media (max-width: 545.98px) {
